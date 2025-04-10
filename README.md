@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2935543b-b5da-4b4e-b48d-58afd095edd4)## hi
+# hi
 ### 난 소제목
 1. 오케이
 2. 오케이?
@@ -14,4 +14,4 @@ printf("%");
 '''
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2935543b-b5da-4b4e-b48d-58afd095edd4)#
